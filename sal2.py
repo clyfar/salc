@@ -3,6 +3,8 @@
 # Author: Geoffrey Golliher
 #
 # Salary modeling based on multivaraiate inputs.
+# 
+# The code here is really fucking awful. I need to fix a lot.
 
 import contextlib
 import matplotlib as mpl
